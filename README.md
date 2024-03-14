@@ -1,6 +1,11 @@
 # **FINTECH EKYC PLATFORM**
 
+## Demo Video
+https://github.com/Arnav131003/Fintech-Ekyc/assets/105121382/0e811c04-785f-48f2-bb98-2d5a30c3963f
+
+
 ![KYC Challenges](Aspose.Words.c3b1c5d9-763c-44c8-84a6-9f9890a2c2de.001.png)
+
 
 **KEY CHALLENGES:**
 
